@@ -1,0 +1,36 @@
+
+pip install keras
+
+pip install tensorflow or tensorflow-gpu
+
+pip install numpy
+
+pip install pandas
+
+pip install matplotlib
+
+pip install scikit-learn
+
+
+
+
+If, want to Embeddings Visualization, need this installation:
+Install 7zip reader libarchive
+Install GraphViz & PyDot
+Install cartopy
+
+The data needed to show the PCA and t-SNE projections in tensorboard, create the model check-point and how to create the sprite and metadata file.
+
+
+
+
+
+
+Download the Fashion MNIST dataset:
+Unzip the downloaded files:
+Relocate to downloaded files in project folder:
+Run the evaluate_model.py
+
+
+
+
